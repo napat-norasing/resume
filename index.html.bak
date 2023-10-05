@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MyResume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@600&amp;display=swap"
+
+      rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&amp;display=swap"
+
+      rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row px-3 font"> <a href="#about" id="back"> </a>
+        <nav class="navbar navbar-expand-lg " style="background-color: #F1EFEB;"><a
+
+            href="#about" id="back"> </a>
+          <div class="container-fluid"><a href="#about" id="back"> <b> </b></a><b><a
+
+                class="navbar-brand" href="#">RESUME</a></b> <button class="navbar-toggler"
+
+              type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+
+              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span
+
+                class="navbar-toggler-icon"></span> </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item"> <a class="nav-link active" aria-current="page"
+
+                    href="#">Home</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="#about">About</a>
+                </li>
+                <li class="nav-item"> <a class="nav-link" href="#info">Info</a>
+                </li>
+                <li class="nav-item"> <a class="nav-link" href="mailto:norasing_n@silpakorn.edu"
+
+                    target="_blank">Contact</a> </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div class="row px-0 mb-1 mx-0">
+        <div class="col-8" style="text-align: center;">
+          <h2><br>
+          </h2>
+          <h2><br>
+          </h2>
+          <h2><br>
+          </h2>
+          <h2 class="menu"><span style="color: white;">HI, I'M NAPAT<br>
+              こんにちは、ナパットです。</span> </h2>
+          <a href="#about"><button type="button" class="btn btn-light">About me</button></a>
+          <h2> </h2>
+        </div>
+        <div>
+          <h2> </h2>
+          <h2> </h2>
+        </div>
+      </div>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container">
+      <div class="row" style="text-align: center;">
+        <h1><a id="about">ABOUT ME</a></h1>
+      </div>
+      <div class="row mx-auto p-2" style="width: 650px; text-align: center;">
+        <p>
+          ดิฉันอยากจะทำงานในบริษัทที่ได้ใช้ความสามารถทางด้านภาษาญี่ปุ่นที่ฉันมี
+          ให้เกิดประโยชน์ได้อย่างเต็มที่ที่สุด
+          และคาดหวังว่าการได้เข้าทำงานกับบริษัทของคุณ
+          จะทำให้ดิฉันได้เรียนรู้เกี่ยวกับทักษะและได้รับประสบการณ์ในการทำงานด้านการแปล
+          หนังสือจากบุคลากรมากประสบการณ์ในองค์กร
+          และนำความรู้เหล่านั้นมาประยุกต์ใช้ในการทำงานแปลที่มีคุณภาพมากที่สุดออกมาเพื่อให้
+          ผู้อ่านสามารถอ่านได้อย่างเพลิดเพลิน </p>
+      </div>
+      <br>
+      <div class="row">
+        <div style="text-align: center;"> <img src="Images/102B2C47-F047-4A99-A111-71ADC4A01D37.png"
+
+            class="img-fluid" alt="book" style="width: 302px; height: 200px;"></div>
+      </div>
+      <br>
+      <br>
+    </div>
+    <div class="container"><br>
+    </div>
+    <div class="container"><br>
+      <br>
+      <br>
+      <br>
+      <div class="row info p-5 cream"> <a id="info">123</a></div>
+      <div class="row mt-10 info" style="text-align: center;">
+        <h1>MY INFORMATION</h1>
+      </div>
+      <div class="row info mt-0 px-5 pt-1 " style="text-align: center;">
+        <div class="col-4"><a id="PERSONAL INFORMATION"> </a><a href="#personal"><img
+
+              src="Images/DE24A029-4030-4F57-91DC-E3AE488CD130.png" class="img-fluid"
+
+              alt="personal"></a></div>
+        <div class="col-4"><a href="#educational"><img src="Images/DE24A029-4030-4F57-91DC-E3AE488CD130%281%29.png"
+
+              class="img-fluid" alt="educational"></a></div>
+        <div class="col-4"><a href="#skills"><img src="Images/DE24A029-4030-4F57-91DC-E3AE488CD130%282%29.png"
+
+              class="img-fluid" alt="skills"></a></div>
+      </div>
+      <div class="row info p-5 cream"> 123 </div>
+      <br>
+      <br>
+      <div class="row mt-5" style="text-align: center;"> <a id="personal">
+          <p><img src="Images/87590B14-8FF7-45AA-8951-2AE8CF24456B.png" class="rounded-circle"
+
+              alt="imgme" style="width: 188px; height: 181px;"></p>
+        </a> </div>
+      <div class="row" style="text-align: center;">
+        <h1>PERSONAL INFORMATION</h1>
+      </div>
+      <div class="row" style="text-align: center;">
+        <p> ชื่อจริง ณภัทร นรสิงห์<br>
+          ชื่อเล่น นัม<br>
+          เกิดวันที่ 5 สิงหาคม 2545<br>
+          อายุ 21 ปี<br>
+          หมู่โลหิต B<br>
+          สัญชาติ/เชื้อชาติ ไทย<br>
+          ศาสนา พุทธ<br>
+          MBTI INFP<br>
+          คติประจำใจ จงทำทุกอย่างด้วยความสุข<br>
+          เบอร์โทรศัพท์ 095-831-0852<br>
+          E-mail Norasing_n@silpakorn.edu </p>
+      </div>
+      <br>
+      <br>
+      <a id="educational"> </a><br>
+      <div class="row m-0 pt-5 info" style="text-align: center;">
+        <h1> EDUCATION HISTORY </h1>
+      </div>
+      <div class="row m-0 pb-5 pt-2 px-5 info">
+        <table class="table table-bordered" style="color: #5b5247;">
+          <thead>
+            <tr style="text-align: center;">
+              <th scope="col">วุฒิการศึกษา</th>
+              <th scope="col">สถานศึกษา</th>
+              <th scope="col">ปีการศึกษา</th>
+            </tr>
+          </thead>
+          <tbody class="table-group-divider">
+            <tr>
+              <td>ระดับปริญญาตรี</td>
+              <td>มหาวิทยาลัยศิลปากร</td>
+              <td>2564-2568</td>
+            </tr>
+            <tr>
+              <td>ระดับมัธยมศึกษา</td>
+              <td>โรงเรียนสวนกุหลาบวิทยาลัย ชลบุรี</td>
+              <td>2558-2563</td>
+            </tr>
+            <tr>
+              <td>ระดับประถมศึกษา</td>
+              <td>โรงเรียนอนุบาลปทุมธานี</td>
+              <td>2552-2557</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <br>
+      <br>
+      <div class="row">
+        <div id="carouselExample" class="carousel slide">
+          <div class="carousel-inner">
+            <div class="carousel-item active"> <a id="skills"><img src="Images/skillsjapannew.jpg"
+
+                  class="d-block w-100" alt="skills"></a> </div>
+            <div class="carousel-item"> <img src="Images/skillsothernew.jpg" class="d-block w-100"
+
+                alt="skills2"> </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
+
+            data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
+
+            type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span> </button> </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <div class="row" style="text-align: center;">
+        <p> <a href="#back"><u>[BACK TO TOP]</u></a> </p>
+      </div>
+      <div class="row py-5 ps-5 footer">
+        <div class="col"><a href="https://youtube.com/@bbyproduction7582?si=kw6jf6k4a2b3ab2a"
+
+            target="_blank"><img src="Images/youtube.jpg" class="img-fluid circle" alt="youtube"></a></div>
+        <div class="col mx-3"><a href="https://www.facebook.com/numnumzung"
+
+            target="_blank"><img src="Images/facebook.jpg" class="img-fluid circle"
+
+              alt="facebook"></a></div>
+        <div class="col"><a href="https://instagram.com/naninunenorrr?igshid=YTQwZjQ0NmI0OA=="
+
+            target="_blank"><img src="Images/instagram.jpg" class="img-fluid circle" alt="instagram"></a></div>
+        <br>
+        <div class="col ps-4 word">
+          <h4> TEL. 095-831-0852</h4>
+          <h4> LINE haminenamugum</h4>
+          <h4> E-MAIL Norasing_n@silpakorn.edu </h4>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+    <script src="js/lightbox-plus-jquery.min.js"></script>
+  </body>
+</html>

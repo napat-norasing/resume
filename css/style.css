@@ -13,6 +13,14 @@ font-family: 'Noto Sans Thai', sans-serif;
   
 }
 
+.button{
+
+font-family: 'Noto Sans Thai', sans-serif;
+
+  
+}
+
+
 .footer {
   background-color: #5B5247;
 }
@@ -67,7 +75,7 @@ h2{
 
 font-family: 'Cherry Bomb One', cursive;
   font-family color: white; 
-  font-size: 50px;
+  font-size: 60px;
   
 }
 
@@ -76,3 +84,16 @@ font-family: 'Cherry Bomb One', cursive;
   font-family color: #5B5247;
 
 }
+
+p{
+
+font-size: 18px;
+
+}
+
+tr{
+
+font-size: 18px;
+
+}
+

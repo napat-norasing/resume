@@ -58,7 +58,7 @@ font-family: 'Noto Sans Thai', sans-serif;
 }
 
  body {
-  background-image: url('../Images/Home.jpg');
+  background-image: url('../images/Home.jpg');
    Background-repeat: no-repeat;
    background-position: top;
 }
@@ -69,4 +69,10 @@ font-family: 'Cherry Bomb One', cursive;
   font-family color: white; 
   font-size: 50px;
   
+}
+
+.plswork{
+  
+  opacity: 0;
+
 }

@@ -189,7 +189,7 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <h1 class="modal-title fs-5" id="exampleModalLabel">
-                    ผลการสอบวัดระดับภาษา JLPT และ ผลงานการแปล </h1>
+                    ผลการสอบ และ ผลงาน </h1>
                   <br>
                   <button type="button" class="btn-close" data-bs-dismiss="modal"
 

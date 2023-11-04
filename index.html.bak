@@ -19,7 +19,7 @@
 
       rel="stylesheet">
     <meta name="description" content="ฉันต้องการสมัครงานในตำแหน่งนักแปลหนังสือภาษาญี่ปุ่น เว็บไซต์นี้จะประกอบไปด้วยข้อมูลต่างๆเกี่ยวกับข้อมูลส่วนตัวของฉันให้ท่านได้รู้จักฉันมากขึ้นรวมถึงความสารถและทักษะทางภาษาญี่ปุ่นของฉัน เพื่อเป็นแนวทางให้ทุกท่านพิจารณาและตัดสินใจในการรับฉันเข้าไปเป็นนักแปลหนังสือภาษาญี่ปุ่นในองค์กรของคุณ">
-    <meta name="keywords" content="นักแปลหนังสือภาษาญี่ปุ่น, สมัครงาน, Japanese book translation, นักแปลหนังสือ, ภาษาญี่ปุ่น">
+    <meta name="keywords" content="นักแปลหนังสือภาษาญี่ปุ่น, สมัครงาน, Japanese book translation, book translator, นักแปลหนังสือ, ภาษาญี่ปุ่น">
   </head>
   <body>
     <div class="row font">
@@ -181,7 +181,7 @@
             <!-- Button trigger modal --><button type="button" class="btn btn-light"
 
               data-bs-toggle="modal" data-bs-target="#exampleModal">
-              ใบประกาศนียบัตรและผลงาน </button><!-- Modal --></div>
+              ผลการสอบวัดระดับภาษา JLPT และ ผลงานการแปล </button><!-- Modal --></div>
           <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
 
             aria-hidden="true">
@@ -189,7 +189,7 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <h1 class="modal-title fs-5" id="exampleModalLabel">
-                    ใบประกาศนียบัตรและผลงาน</h1>
+                    ผลการสอบวัดระดับภาษา JLPT และ ผลงานการแปล </h1>
                   <br>
                   <button type="button" class="btn-close" data-bs-dismiss="modal"
 
@@ -215,8 +215,7 @@
 
                       data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="next">
                       <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span> </button>
-                  </div>
+                      <span class="visually-hidden">Next</span> </button> </div>
                 </div>
                 <div class="modal-footer"> <button type="button" class="btn btn-secondary"
 

@@ -1,7 +1,15 @@
-h1{
+.head{
   
 font-family: 'Noto Sans Thai', sans-serif;
   
+  color: #5B5247;
+
+}
+
+.topic{
+  
+font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 25px;
   color: #5B5247;
 
 }
@@ -68,6 +76,14 @@ h3{
 font-family: 'Cherry Bomb One', cursive;
   font-family color: white; 
   font-size: 50px;
+  
+}
+
+.cute{
+
+font-family: 'Cherry Bomb One', cursive;
+  font-family color: white; 
+  font-size: 35px;
   
 }
 
